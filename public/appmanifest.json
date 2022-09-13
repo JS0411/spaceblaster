@@ -1,7 +1,7 @@
 ﻿{
 	"name": "Space Blaster",
 	"short_name": "Space Blaster",
-	"start_url": "index.html",
+	"start_url": "game.html",
 	"display": "fullscreen",
 	"orientation": "any",
 	"icons": [{
